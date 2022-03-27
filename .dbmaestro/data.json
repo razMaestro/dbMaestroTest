@@ -153,7 +153,7 @@
                     "host": "localhost",
                     "authType": "SqlAuthentication",
                     "userName": "sa",
-                    "dbName": "testDB",
+                    "dbName": "Dev1",
                     "Password": "qrE4JauJd0gM7CQ0IggpFA=="
                   }
                 }
