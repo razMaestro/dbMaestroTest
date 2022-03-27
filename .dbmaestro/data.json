@@ -21,6 +21,17 @@
                   "RemoteBranchName": "main",
                   "LocalBranchName": "main"
                 }
+              },
+              {
+                "DatabaseId": "1aa05b18-b577-47b9-88d5-1c21dbe78474",
+                "DatabaseAliasName": "RS3",
+                "DatabaseConnectionDetails": null,
+                "RepositoryDetails": {
+                  "$type": "DOP.SourceControl.ExternalSourceControl.Git.Models.GitRepositoryDetails, DOP.SourceControl.ExternalSourceControl.Git",
+                  "RemoteRepositoryURL": "https://github.com/razhol/DbMeastroRaz.git",
+                  "RemoteBranchName": "main",
+                  "LocalBranchName": "main"
+                }
               }
             ]
           }
@@ -61,6 +72,28 @@
               "RepositoryCredentials": {
                 "UserName": "razhol",
                 "Password": "+TheBzd9nyllY1tMYttpncb0bwg11PaPUxHj3qiadx0GEoNo+qJmhHKvHZ8tWm/H"
+              }
+            },
+            {
+              "DatabaseId": "1aa05b18-b577-47b9-88d5-1c21dbe78474",
+              "DatabaseAliasName": "RS3",
+              "DatabaseConnectionDetails": null,
+              "BranchesDatabaseConnectionDetails": [
+                {
+                  "BranchName": "main",
+                  "DatabaseConnectionDetails": {
+                    "DBTypeName": "SQL Server",
+                    "host": "localhost",
+                    "authType": "SqlAuthentication",
+                    "userName": "sa",
+                    "dbName": "DB10",
+                    "Password": "qrE4JauJd0gM7CQ0IggpFA=="
+                  }
+                }
+              ],
+              "RepositoryCredentials": {
+                "UserName": "razMaestro",
+                "Password": "0Lit0a4Rtxn5QR8R96lumKH1aBKiqaJfpD3VB9u5v5ulFSpfYGTxSPKFhEAr4xv+"
               }
             }
           ]
