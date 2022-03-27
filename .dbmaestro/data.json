@@ -63,9 +63,9 @@
                     "DBTypeName": "SQL Server",
                     "host": "localhost",
                     "authType": "SqlAuthentication",
-                    "userName": "razconnect",
-                    "dbName": "RS1",
-                    "Password": "CN4mWwNu3t0eArhQ8dEcyg=="
+                    "userName": "sa",
+                    "dbName": "testDB",
+                    "Password": "qrE4JauJd0gM7CQ0IggpFA=="
                   }
                 }
               ],
