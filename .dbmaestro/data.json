@@ -66,6 +66,31 @@
           ]
         }
       ]
+    },
+    {
+      "GlobalData": {
+        "ProjectId": "cddba425-de15-4e4b-9da1-868d85c46b06",
+        "ProjectName": "projectName4",
+        "DBTypeName": "SQL Server",
+        "Environments": null,
+        "SourceControlPathType": 0,
+        "Configuration": {
+          "BuildMigrationScriptAutomatically": true,
+          "DBConfiguration": {},
+          "NumberOfRevisionsInViewHistory": 10,
+          "NumberOfTagsInBuildOptions": 10,
+          "PreventCommitObjectWithConflict": false,
+          "UseCache": null
+        },
+        "ProjectArchitecture": 0,
+        "LocalDirectory": "C:\\Users\\Raz\\Documents\\projectName2"
+      },
+      "UserData": [
+        {
+          "UserName": "razMaestro",
+          "DatabasesData": []
+        }
+      ]
     }
   ],
   "GlobalConfigurations": null
